@@ -5,7 +5,7 @@ from pymongo import MongoClient
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # 🔹 Config
-SESSION_STRING = "YOUR_SESSION_STRING"
+SESSION_STRING = "BQGz0ToAmeiD8-HpdELnJpyFK3HhOnlUGwyODtE1aCPO_uRTDBpNqBgGVbt3y_Krx04Y0ue8qc9939tnThFzTW6XwO3Klv4-FGD13DC1tG94Qz5FuFu6hF-BiPIU64w5AWRDuLyOcD0jnpUuH66wVDUXt4Go5ThkMjSRY-M-8WJQ0j0g6SGtxHzQPQgJYqKMg9BAVqm7jjfe-5e858bb858P_RxSwonbg8m92nC9XvpJnIXd1aNJvx8Fb00hlHKCQX5ZA_wkdn52uGgoK1sTHhyW4VC0P-3hVOaoZkjMXp0i1PDFdyFez9DAh1m97nmH5spjL2_S9k0zE3xS841sHLU0uGBfEQAAAAHPmT5cAA"
 API_ID = 22878444
 API_HASH = "550641aa3600a98c1cb94afc259f2244"
 OWNER_ID = 6663845789  # Only owner can use commands
